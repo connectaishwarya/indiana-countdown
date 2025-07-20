@@ -74,3 +74,6 @@ export default function Home() {
   allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
   loading="lazy"
 ></iframe>
+   </main>
+  );
+}
