@@ -65,6 +65,12 @@ export default function Home() {
         ✨ I'm packed!
       </button>
       {isPacked && <p style={{ marginTop: "1rem" }}>💼 Let’s gooo!</p>}
-      <iframe
-        style={{ marginTop: "2rem", borderRadius: "12px" }}
-        src="https://open.spotify.com/embed/pla
+     <iframe
+  style={{ marginTop: "2rem", borderRadius: "12px" }}
+  src="https://open.spotify.com/embed/playlist/37i9dQZF1DX4UtSsGT1Sbe?utm_source=generator"
+  width="300"
+  height="80"
+  frameBorder="0"
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"
+></iframe>
